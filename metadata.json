@@ -1,0 +1,6 @@
+{
+  "name": "Wolfric SubBot Platform",
+  "description": "Plataforma oficial y exclusiva para crear, vincular y administrar SubBots de Wolfric de manera aislada y segura, con panel de control privado del propietario y gestión de versiones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

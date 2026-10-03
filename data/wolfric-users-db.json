@@ -1,0 +1,1266 @@
+[
+  {
+    "id": "usr-83769193189377",
+    "lid": "83769193189377@lid",
+    "jid": "83769193189377@lid",
+    "phone": "83769193189377",
+    "name": "Primera Sangre",
+    "registered": false,
+    "registeredAt": "2026-08-24T10:58:30.483Z",
+    "level": 6,
+    "exp": 27,
+    "coins": 2195,
+    "bank": 3292,
+    "diamonds": 0,
+    "role": "Primera Sangre",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-05T00:17:52.413Z",
+    "customData": {
+      "stats": {
+        "str": 14,
+        "def": 10,
+        "agi": 15,
+        "int": 10
+      },
+      "fruitEquipada": "Vacio",
+      "frutasPoseidas": [
+        {
+          "nombre": "Vacio",
+          "categoria": "owner",
+          "despertada": true
+        },
+        {
+          "nombre": "Bomba",
+          "categoria": "comun",
+          "despertada": false
+        },
+        {
+          "nombre": "Arena",
+          "categoria": "comun",
+          "despertada": false
+        },
+        {
+          "nombre": "Imán",
+          "categoria": "comun",
+          "despertada": false
+        },
+        {
+          "nombre": "Fantasma",
+          "categoria": "mitica",
+          "despertada": false
+        },
+        {
+          "nombre": "Apuesta",
+          "categoria": "rara",
+          "despertada": false
+        },
+        {
+          "nombre": "Papel",
+          "categoria": "comun",
+          "despertada": false
+        },
+        {
+          "nombre": "Goma",
+          "categoria": "comun",
+          "despertada": false
+        },
+        {
+          "nombre": "Amigo",
+          "categoria": "comun",
+          "despertada": false
+        }
+      ],
+      "frontier": {
+        "alias": null,
+        "rango": "E",
+        "regionActual": "arca-inicial",
+        "regionesDescubiertas": [
+          "arca-inicial"
+        ],
+        "pistas": [],
+        "escenariosUnicos": [],
+        "guardianesDerrotados": [],
+        "materiales": {},
+        "armasPoseidas": [
+          "punos_novato"
+        ],
+        "armaEquipada": "punos_novato",
+        "artesDesbloqueadas": [
+          "corte_basico"
+        ],
+        "artesEquipadas": [
+          "corte_basico"
+        ],
+        "reputacion": {},
+        "encuentrosDescubiertos": [],
+        "recompensasUnicas": [],
+        "decisionesUnicas": [],
+        "tutorial": {
+          "estado": "pendiente",
+          "ruta": null,
+          "pasos": [],
+          "recompensaReclamada": false,
+          "creadoEn": null
+        },
+        "exploraciones": {},
+        "subzonasDescubiertas": {},
+        "elitesDerrotadas": [],
+        "eventosFrontier": [],
+        "misionesFrontier": [],
+        "npcsConocidos": [],
+        "recetasDescubiertas": [
+          "temple-ceniza"
+        ],
+        "mejorasArmas": {},
+        "consecuencias": [],
+        "prestigio": 0
+      },
+      "titles": [
+        "Primera Sangre",
+        "Asesino Implacable",
+        "Intocable"
+      ],
+      "bounty": 299,
+      "wins": 3,
+      "derrotas": 5,
+      "inventory": [
+        "Antídoto Universal",
+        "Inyector de Adrenalina"
+      ]
+    }
+  },
+  {
+    "id": "usr-16970086887468",
+    "lid": "16970086887468@lid",
+    "jid": "16970086887468@lid",
+    "phone": "16970086887468",
+    "name": "ワオルフライク",
+    "registered": true,
+    "registeredAt": "2026-08-24T10:58:30.487Z",
+    "level": 5,
+    "exp": 91,
+    "coins": 140,
+    "bank": 210,
+    "diamonds": 0,
+    "role": "Primera Sangre",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-05T12:52:32.777Z",
+    "customData": {
+      "stats": {
+        "str": 16,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "fruitEquipada": "Fuego Alfa",
+      "frutasPoseidas": [
+        {
+          "nombre": "Fuego Alfa",
+          "categoria": "owner",
+          "despertada": true
+        },
+        {
+          "nombre": "Madera",
+          "categoria": "comun",
+          "despertada": false
+        },
+        {
+          "nombre": "Imán",
+          "categoria": "comun",
+          "despertada": false
+        },
+        {
+          "nombre": "Dolor",
+          "categoria": "mitica",
+          "despertada": false
+        },
+        {
+          "nombre": "Amigo",
+          "categoria": "comun",
+          "despertada": false
+        },
+        {
+          "nombre": "Neón",
+          "categoria": "epica",
+          "despertada": false
+        },
+        {
+          "nombre": "Vapor",
+          "categoria": "comun",
+          "despertada": false
+        },
+        {
+          "nombre": "Apuesta",
+          "categoria": "rara",
+          "despertada": false
+        },
+        {
+          "nombre": "Viento",
+          "categoria": "comun",
+          "despertada": false
+        },
+        {
+          "nombre": "Hueso",
+          "categoria": "rara",
+          "despertada": false
+        },
+        {
+          "nombre": "Control",
+          "categoria": "mitica",
+          "despertada": false
+        },
+        {
+          "nombre": "Veneno",
+          "categoria": "rara",
+          "despertada": false
+        },
+        {
+          "nombre": "Metal",
+          "categoria": "comun",
+          "despertada": false
+        },
+        {
+          "nombre": "Bomba",
+          "categoria": "comun",
+          "despertada": false
+        },
+        {
+          "nombre": "Terremoto",
+          "categoria": "epica",
+          "despertada": false
+        },
+        {
+          "nombre": "Arena",
+          "categoria": "comun",
+          "despertada": false
+        }
+      ],
+      "frontier": {
+        "alias": "ワオルフライク",
+        "rango": "E",
+        "regionActual": "llanuras-ceniza",
+        "regionesDescubiertas": [
+          "arca-inicial",
+          "llanuras-ceniza"
+        ],
+        "pistas": [],
+        "escenariosUnicos": [],
+        "guardianesDerrotados": [],
+        "materiales": {
+          "fragmento_ceniza": 1
+        },
+        "armasPoseidas": [
+          "punos_novato"
+        ],
+        "armaEquipada": "punos_novato",
+        "artesDesbloqueadas": [
+          "corte_basico"
+        ],
+        "artesEquipadas": [
+          "corte_basico"
+        ],
+        "reputacion": {
+          "llanuras-ceniza": 1
+        },
+        "encuentrosDescubiertos": [],
+        "recompensasUnicas": [],
+        "decisionesUnicas": [],
+        "tutorial": {
+          "estado": "pendiente",
+          "ruta": null,
+          "pasos": [],
+          "recompensaReclamada": false,
+          "creadoEn": 1787580328151
+        },
+        "exploraciones": {
+          "llanuras-ceniza": 3
+        },
+        "subzonasDescubiertas": {
+          "llanuras-ceniza": [
+            "torre-caida"
+          ]
+        },
+        "elitesDerrotadas": [],
+        "eventosFrontier": [],
+        "misionesFrontier": [],
+        "npcsConocidos": [],
+        "recetasDescubiertas": [
+          "temple-ceniza"
+        ],
+        "mejorasArmas": {},
+        "consecuencias": [],
+        "prestigio": 0
+      },
+      "titles": [
+        "Primera Sangre"
+      ],
+      "bounty": 370,
+      "wins": 1,
+      "derrotas": 2,
+      "inventory": [
+        "Inyector de Adrenalina",
+        "Batería de Iones",
+        "Poción Neón Grande",
+        "Píldora de Amnesia"
+      ]
+    }
+  },
+  {
+    "id": "usr-41343522992148",
+    "lid": "41343522992148@lid",
+    "jid": "41343522992148@lid",
+    "phone": "41343522992148",
+    "name": "Lucas",
+    "registered": true,
+    "registeredAt": "2026-08-24T10:58:30.487Z",
+    "level": 3,
+    "exp": 0,
+    "coins": 2687,
+    "bank": 4030,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.194Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "fruitEquipada": "Rayo",
+      "frutasPoseidas": [
+        {
+          "nombre": "THE L",
+          "categoria": "owner",
+          "despertada": false
+        },
+        {
+          "nombre": "Rayo",
+          "categoria": "rara",
+          "despertada": false
+        },
+        {
+          "nombre": "Humo",
+          "categoria": "comun",
+          "despertada": false
+        }
+      ],
+      "frontier": {
+        "alias": "Lucas",
+        "rango": "E",
+        "regionActual": "arca-inicial",
+        "regionesDescubiertas": [
+          "arca-inicial",
+          "llanuras-ceniza"
+        ],
+        "pistas": [],
+        "escenariosUnicos": [],
+        "guardianesDerrotados": [],
+        "materiales": {},
+        "armasPoseidas": [
+          "punos_novato"
+        ],
+        "armaEquipada": "punos_novato",
+        "artesDesbloqueadas": [
+          "corte_basico"
+        ],
+        "artesEquipadas": [
+          "corte_basico"
+        ],
+        "reputacion": {
+          "llanuras-ceniza": 0
+        },
+        "encuentrosDescubiertos": [],
+        "recompensasUnicas": [],
+        "decisionesUnicas": [],
+        "tutorial": {
+          "estado": "en-recorrido",
+          "ruta": null,
+          "pasos": [
+            "ruta:guia"
+          ],
+          "recompensaReclamada": false,
+          "creadoEn": 1787587703484
+        },
+        "exploraciones": {},
+        "subzonasDescubiertas": {},
+        "elitesDerrotadas": [],
+        "eventosFrontier": [],
+        "misionesFrontier": [],
+        "npcsConocidos": [],
+        "recetasDescubiertas": [
+          "temple-ceniza"
+        ],
+        "mejorasArmas": {},
+        "consecuencias": [],
+        "prestigio": 0
+      },
+      "titles": [],
+      "bounty": 102,
+      "wins": 0,
+      "derrotas": 0,
+      "inventory": []
+    }
+  },
+  {
+    "id": "usr-235734246105265",
+    "lid": "235734246105265@lid",
+    "jid": "235734246105265@lid",
+    "phone": "235734246105265",
+    "name": "[ 𝐙𝐢𝐫𝐱 ]",
+    "registered": true,
+    "registeredAt": "2026-08-24T11:01:25.852Z",
+    "level": 8,
+    "exp": 66,
+    "coins": 10252,
+    "bank": 15378,
+    "diamonds": 50,
+    "role": "Intocable",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-05T13:19:33.862Z",
+    "customData": {
+      "stats": {
+        "str": 20,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "fruitEquipada": "Mammoth",
+      "frutasPoseidas": [
+        {
+          "nombre": "Espejismo",
+          "categoria": "rara",
+          "despertada": false
+        },
+        {
+          "nombre": "Mammoth",
+          "categoria": "mitica",
+          "despertada": false
+        },
+        {
+          "nombre": "Dolor",
+          "categoria": "mitica",
+          "despertada": false
+        },
+        {
+          "nombre": "Abismo",
+          "categoria": "mitica",
+          "despertada": false
+        }
+      ],
+      "frontier": {
+        "alias": "[ 𝐙𝐢𝐫𝐱 ]",
+        "rango": "E",
+        "regionActual": "llanuras-ceniza",
+        "regionesDescubiertas": [
+          "arca-inicial",
+          "llanuras-ceniza"
+        ],
+        "pistas": [],
+        "escenariosUnicos": [],
+        "guardianesDerrotados": [],
+        "materiales": {},
+        "armasPoseidas": [
+          "punos_novato"
+        ],
+        "armaEquipada": "punos_novato",
+        "artesDesbloqueadas": [
+          "corte_basico"
+        ],
+        "artesEquipadas": [
+          "corte_basico"
+        ],
+        "reputacion": {
+          "llanuras-ceniza": 0
+        },
+        "encuentrosDescubiertos": [],
+        "recompensasUnicas": [],
+        "decisionesUnicas": [],
+        "tutorial": {
+          "estado": "pendiente",
+          "ruta": null,
+          "pasos": [],
+          "recompensaReclamada": false,
+          "creadoEn": 1787616790494
+        },
+        "exploraciones": {
+          "llanuras-ceniza": 3
+        },
+        "subzonasDescubiertas": {
+          "llanuras-ceniza": [
+            "torre-caida",
+            "tormenta-ceniza"
+          ]
+        },
+        "elitesDerrotadas": [],
+        "eventosFrontier": [],
+        "misionesFrontier": [],
+        "npcsConocidos": [],
+        "recetasDescubiertas": [
+          "temple-ceniza"
+        ],
+        "mejorasArmas": {},
+        "consecuencias": [],
+        "prestigio": 0
+      },
+      "titles": [
+        "Bancarrota",
+        "Coleccionista",
+        "Primera Sangre",
+        "Asesino Implacable",
+        "Intocable",
+        "Spammer Neón"
+      ],
+      "bounty": 927,
+      "wins": 7,
+      "derrotas": 2,
+      "inventory": [
+        "Poción Neón Pequeña",
+        "Poción de Suerte",
+        "Bomba de Ruptura",
+        "Bomba de Ruptura",
+        "Escudo de Datos",
+        "Poción Neón Pequeña",
+        "Catalizador de Fase"
+      ]
+    }
+  },
+  {
+    "id": "usr-118696135680047",
+    "lid": "118696135680047@lid",
+    "jid": "118696135680047@lid",
+    "phone": "118696135680047",
+    "name": "☆_ҒΣDΣ_☆",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.194Z",
+    "level": 3,
+    "exp": 0,
+    "coins": 3640,
+    "bank": 5460,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.194Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "fruitEquipada": "Imán",
+      "frutasPoseidas": [
+        {
+          "nombre": "Imán",
+          "categoria": "comun",
+          "despertada": false
+        }
+      ],
+      "frontier": {
+        "alias": "☆_ҒΣDΣ_☆",
+        "rango": "E"
+      }
+    }
+  },
+  {
+    "id": "usr-149297777623083",
+    "lid": "149297777623083@lid",
+    "jid": "149297777623083@lid",
+    "phone": "149297777623083",
+    "name": "T",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.194Z",
+    "level": 6,
+    "exp": 0,
+    "coins": 548,
+    "bank": 822,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.194Z",
+    "customData": {
+      "stats": {
+        "str": 15,
+        "def": 15,
+        "agi": 10,
+        "int": 14
+      },
+      "fruitEquipada": "Abismo",
+      "frutasPoseidas": [
+        {
+          "nombre": "Abismo",
+          "categoria": "mitica",
+          "despertada": true
+        }
+      ],
+      "frontier": {
+        "alias": "T",
+        "rango": "E"
+      }
+    }
+  },
+  {
+    "id": "usr-62474661400663",
+    "lid": "62474661400663@lid",
+    "jid": "62474661400663@lid",
+    "phone": "62474661400663",
+    "name": "Usuario +62474661400663",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.194Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.194Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "frontier": {
+        "rango": "E"
+      }
+    }
+  },
+  {
+    "id": "usr-83202676899974",
+    "lid": "83202676899974@lid",
+    "jid": "83202676899974@lid",
+    "phone": "83202676899974",
+    "name": "—͟͟͞͞ Shadow Milk Cookie",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.194Z",
+    "level": 3,
+    "exp": 0,
+    "coins": 584,
+    "bank": 876,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.194Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "fruitEquipada": "Cristal",
+      "frutasPoseidas": [
+        {
+          "nombre": "Cristal",
+          "categoria": "comun",
+          "despertada": false
+        }
+      ],
+      "frontier": {
+        "alias": "—͟͟͞͞ Shadow Milk Cookie",
+        "rango": "E"
+      }
+    }
+  },
+  {
+    "id": "usr-176622695104628",
+    "lid": "176622695104628@lid",
+    "jid": "176622695104628@lid",
+    "phone": "176622695104628",
+    "name": "𝙻𝚊𝚣𝚎𝚔",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.194Z",
+    "level": 3,
+    "exp": 0,
+    "coins": 542,
+    "bank": 813,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.194Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "fruitEquipada": "Madera",
+      "frutasPoseidas": [
+        {
+          "nombre": "Madera",
+          "categoria": "comun",
+          "despertada": false
+        }
+      ],
+      "frontier": {
+        "alias": "𝙻𝚊𝚣𝚎𝚔",
+        "rango": "E"
+      }
+    }
+  },
+  {
+    "id": "usr-69058779205729",
+    "lid": "69058779205729@lid",
+    "jid": "69058779205729@lid",
+    "phone": "69058779205729",
+    "name": "𝑪𝒉𝒐𝒔𝒐 ♱",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 3,
+    "exp": 0,
+    "coins": 400,
+    "bank": 600,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "fruitEquipada": "Bomba",
+      "frutasPoseidas": [
+        {
+          "nombre": "Bomba",
+          "categoria": "comun",
+          "despertada": false
+        }
+      ],
+      "frontier": {
+        "alias": "𝑪𝒉𝒐𝒔𝒐 ♱",
+        "rango": "E"
+      }
+    }
+  },
+  {
+    "id": "usr-162620514545913",
+    "lid": "162620514545913@lid",
+    "jid": "162620514545913@lid",
+    "phone": "162620514545913",
+    "name": "Usuario +162620514545913",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "frontier": {
+        "rango": "E"
+      }
+    }
+  },
+  {
+    "id": "usr-39122974568560",
+    "lid": "39122974568560@lid",
+    "jid": "39122974568560@lid",
+    "phone": "39122974568560",
+    "name": "Alex",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 3,
+    "exp": 0,
+    "coins": 560,
+    "bank": 840,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "fruitEquipada": "Vapor",
+      "frutasPoseidas": [
+        {
+          "nombre": "Vapor",
+          "categoria": "comun",
+          "despertada": false
+        }
+      ],
+      "frontier": {
+        "alias": "Alex",
+        "rango": "E"
+      }
+    }
+  },
+  {
+    "id": "usr-150135229157427",
+    "lid": "150135229157427@lid",
+    "jid": "150135229157427@lid",
+    "phone": "150135229157427",
+    "name": "Usuario +150135229157427",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "frontier": {
+        "rango": "E"
+      }
+    }
+  },
+  {
+    "id": "usr-213142768464066",
+    "lid": "213142768464066@lid",
+    "jid": "213142768464066@lid",
+    "phone": "213142768464066",
+    "name": "Usuario +213142768464066",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "frontier": {
+        "rango": "E"
+      }
+    }
+  },
+  {
+    "id": "usr-168495895584946",
+    "lid": "168495895584946@lid",
+    "jid": "168495895584946@lid",
+    "phone": "168495895584946",
+    "name": "ワオルフライク",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 3,
+    "exp": 0,
+    "coins": 400,
+    "bank": 600,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "fruitEquipada": "Luz",
+      "frutasPoseidas": [
+        {
+          "nombre": "Luz",
+          "categoria": "rara",
+          "despertada": false
+        }
+      ],
+      "frontier": {
+        "alias": "ワオルフライク",
+        "rango": "E"
+      }
+    }
+  },
+  {
+    "id": "usr-120363430765252492",
+    "lid": "120363430765252492@lid",
+    "jid": "120363430765252492@newsletter",
+    "phone": "120363430765252492",
+    "name": "Usuario +120363430765252492",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      }
+    }
+  },
+  {
+    "id": "usr-39862262591604",
+    "lid": "39862262591604@lid",
+    "jid": "39862262591604@lid",
+    "phone": "39862262591604",
+    "name": "Usuario +39862262591604",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      }
+    }
+  },
+  {
+    "id": "usr-125344510173251",
+    "lid": "125344510173251@lid",
+    "jid": "125344510173251@lid",
+    "phone": "125344510173251",
+    "name": "Usuario +125344510173251",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      }
+    }
+  },
+  {
+    "id": "usr-194536718479511",
+    "lid": "194536718479511@lid",
+    "jid": "194536718479511@lid",
+    "phone": "194536718479511",
+    "name": "Usuario +194536718479511",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      }
+    }
+  },
+  {
+    "id": "usr-157694505820188",
+    "lid": "157694505820188@lid",
+    "jid": "157694505820188@lid",
+    "phone": "157694505820188",
+    "name": "Usuario +157694505820188",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      }
+    }
+  },
+  {
+    "id": "usr-13808957407456",
+    "lid": "13808957407456@lid",
+    "jid": "13808957407456@lid",
+    "phone": "13808957407456",
+    "name": "Usuario +13808957407456",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      }
+    }
+  },
+  {
+    "id": "usr-141408308621483",
+    "lid": "141408308621483@lid",
+    "jid": "141408308621483@lid",
+    "phone": "141408308621483",
+    "name": "Usuario +141408308621483",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      }
+    }
+  },
+  {
+    "id": "usr-182687155384426",
+    "lid": "182687155384426@lid",
+    "jid": "182687155384426@lid",
+    "phone": "182687155384426",
+    "name": "Usuario +182687155384426",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      }
+    }
+  },
+  {
+    "id": "usr-16897106018381",
+    "lid": "16897106018381@lid",
+    "jid": "16897106018381@lid",
+    "phone": "16897106018381",
+    "name": "Usuario +16897106018381",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      }
+    }
+  },
+  {
+    "id": "usr-66988621709487",
+    "lid": "66988621709487@lid",
+    "jid": "66988621709487@lid",
+    "phone": "66988621709487",
+    "name": "Usuario +66988621709487",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      }
+    }
+  },
+  {
+    "id": "usr-99077077393551",
+    "lid": "99077077393551@lid",
+    "jid": "99077077393551@lid",
+    "phone": "99077077393551",
+    "name": "Usuario +99077077393551",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 1,
+    "exp": 0,
+    "coins": 100,
+    "bank": 150,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      }
+    }
+  },
+  {
+    "id": "usr-84581495628015",
+    "lid": "84581495628015@lid",
+    "jid": "84581495628015@lid",
+    "phone": "84581495628015",
+    "name": "Խելահեղություն Պրեսկոտում",
+    "registered": true,
+    "registeredAt": "2026-09-18T01:55:20.195Z",
+    "level": 3,
+    "exp": 0,
+    "coins": 400,
+    "bank": 600,
+    "diamonds": 0,
+    "role": "Aventurero Wolfric",
+    "warns": 0,
+    "banned": false,
+    "sourceBackup": "Backup Oficial Wolfric Protocol (GitHub)",
+    "lastActive": "2026-09-18T01:55:20.195Z",
+    "customData": {
+      "stats": {
+        "str": 10,
+        "def": 10,
+        "agi": 10,
+        "int": 10
+      },
+      "fruitEquipada": "Imán",
+      "frutasPoseidas": [
+        {
+          "nombre": "Imán",
+          "categoria": "comun",
+          "despertada": false
+        }
+      ],
+      "frontier": {
+        "alias": "Խելահեղություն Պրեսկոտում",
+        "rango": "E"
+      }
+    }
+  }
+]

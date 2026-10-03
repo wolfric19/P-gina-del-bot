@@ -1,0 +1,16 @@
+{
+  "temporada": {
+    "nombre": "Temporada 01 · La Señal",
+    "estado": "activa",
+    "inicio": 1790596257925,
+    "fin": null
+  },
+  "eventos": [],
+  "consecuencias": [],
+  "anuncios": [],
+  "estadisticas": {
+    "guardianes": 0,
+    "soberanos": 0,
+    "resonancias": 0
+  }
+}

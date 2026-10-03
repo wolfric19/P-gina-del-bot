@@ -1,0 +1,361 @@
+{
+  "instances": [
+    {
+      "id": "wolf-mulrr862-632",
+      "name": "Wolfric-SubBot--632",
+      "ownerPhone": "+56987654321",
+      "customAlias": "Mi SubBot Wolfric",
+      "status": "pairing",
+      "pairingMethod": "code",
+      "pairingCode": "Z19T-3F66",
+      "qrData": "",
+      "version": "Wolfric 3.2.1",
+      "sessionHash": "sha256:2cf300e8707c8df453a6554b",
+      "sessionCreatedAt": "2026-09-28T21:38:09.818Z",
+      "lastSeen": "2026-09-28T21:38:09.819Z",
+      "uptimeSeconds": 0,
+      "isBanned": false,
+      "isSuspended": false,
+      "userAuthToken": "wlf_sec_aba519a9456ba5decb44a9f8d33e8b17",
+      "userPin": "testpassword123",
+      "config": {
+        "prefix": ".",
+        "mode": "public",
+        "autoRead": true,
+        "antiLink": true,
+        "welcomeMessage": true,
+        "welcomeText": "¡Bienvenido al grupo! Soy un SubBot oficial de Wolfric creado por wolfric_19, The L y zerrDMC_. Escribe .menu para comenzar.",
+        "stickerMaker": true,
+        "antiSpam": true,
+        "maxGroups": 10,
+        "language": "es",
+        "botBio": "🐺 Wolfric SubBot Oficial | wolfric_19 • The L • zerrDMC_",
+        "autoBio": true,
+        "reactions": true,
+        "turboMode": true
+      },
+      "stats": {
+        "messagesProcessed": 0,
+        "commandsExecuted": 0,
+        "activeGroups": 0,
+        "contactsSeen": 0,
+        "pingMs": 38,
+        "memoryMb": 70
+      },
+      "backups": [],
+      "logs": [
+        {
+          "timestamp": "2026-09-28T21:38:12.021Z",
+          "level": "info",
+          "message": "[WOLFRIC | INFO] WhatsApp > Ajustes > Dispositivos vinculados > Vincular con número > ingresá ese código"
+        },
+        {
+          "timestamp": "2026-09-28T21:38:12.020Z",
+          "level": "success",
+          "message": "Código oficial de WhatsApp recibido: Z19T-3F66"
+        },
+        {
+          "timestamp": "2026-09-28T21:38:12.019Z",
+          "level": "success",
+          "message": "Código oficial de vinculación generado: Z19T-3F66"
+        },
+        {
+          "timestamp": "2026-09-28T21:38:11.289Z",
+          "level": "info",
+          "message": "[WOLFRIC | INFO] Actualizando conexión..."
+        },
+        {
+          "timestamp": "2026-09-28T21:38:11.270Z",
+          "level": "info",
+          "message": "[WOLFRIC | INFO] Abriendo socket de WhatsApp..."
+        },
+        {
+          "timestamp": "2026-09-28T21:38:11.270Z",
+          "level": "info",
+          "message": "[WOLFRIC | INFO] Baileys v2.3000.1041589577"
+        },
+        {
+          "timestamp": "2026-09-28T21:38:11.072Z",
+          "level": "info",
+          "message": "[WOLFRIC | INFO] Cargando sesión y versión de Baileys..."
+        },
+        {
+          "timestamp": "2026-09-28T21:38:11.072Z",
+          "level": "info",
+          "message": "[WOLFRIC | INFO] Iniciando componentes internos..."
+        },
+        {
+          "timestamp": "2026-09-28T21:38:09.819Z",
+          "level": "info",
+          "message": "Iniciando conexión con WhatsApp..."
+        },
+        {
+          "timestamp": "2026-09-28T21:38:09.819Z",
+          "level": "info",
+          "message": "🐺 Iniciando motor oficial Wolfric Protocol para instancia wolf-mulrr862-632..."
+        },
+        {
+          "timestamp": "2026-09-28T21:38:09.818Z",
+          "level": "info",
+          "message": "Instancia de SubBot Wolfric creada de forma aislada."
+        },
+        {
+          "timestamp": "2026-09-28T21:38:09.818Z",
+          "level": "info",
+          "message": "Conectando con servidores oficiales de WhatsApp Multi-Device..."
+        }
+      ]
+    }
+  ],
+  "versions": [
+    {
+      "id": "v-3.2.1",
+      "version": "Wolfric 3.2.1",
+      "releaseDate": "2026-09-10",
+      "isLatest": true,
+      "isStable": true,
+      "changelog": [
+        "Multi-device Baileys v6.7.8 protocol update",
+        "Optimización de memoria en modo SubBot (-35% RAM)",
+        "Nuevo motor de stickers HD y descarga de Reels",
+        "Protección avanzada contra baneo y desconexión fantasma",
+        "Aislamiento estricto de credenciales por instancia"
+      ],
+      "fileSize": "4.8 MB",
+      "instancesCount": 3,
+      "hash": "sha256:8f4c21b93dae0041",
+      "notes": "Versión oficial recomendada para producción.",
+      "author": "Wolfric Core Team"
+    },
+    {
+      "id": "v-3.2.0",
+      "version": "Wolfric 3.2.0",
+      "releaseDate": "2026-08-18",
+      "isLatest": false,
+      "isStable": true,
+      "changelog": [
+        "Sistema de código de vinculación de 8 dígitos",
+        "Soporte para bienvenida y despedida personalizada",
+        "Antilink configurable con kick automático"
+      ],
+      "fileSize": "4.6 MB",
+      "instancesCount": 1,
+      "hash": "sha256:7b1e93c12140fa72",
+      "notes": "Versión estable anterior con alto soporte.",
+      "author": "Wolfric Core Team"
+    },
+    {
+      "id": "v-3.1.9",
+      "version": "Wolfric 3.1.9",
+      "releaseDate": "2026-07-02",
+      "isLatest": false,
+      "isStable": true,
+      "changelog": [
+        "Compatibilidad legacy para números de WhatsApp antiguos",
+        "Parche de reconexión automática en redes lentas"
+      ],
+      "fileSize": "4.4 MB",
+      "instancesCount": 0,
+      "hash": "sha256:1a84f32dc87e028b",
+      "notes": "Versión LTS para números con alta sensibilidad.",
+      "author": "Wolfric Core Team"
+    },
+    {
+      "id": "v-backup-legacy-2.8",
+      "version": "Backup Antiguo Wolfric v2.8",
+      "releaseDate": "2026-04-12",
+      "isLatest": false,
+      "isStable": false,
+      "isBackup": true,
+      "changelog": [
+        "Snapshot de respaldo de la arquitectura monolítica original",
+        "Conservado para auditoría y restauración de configuraciones antiguas"
+      ],
+      "fileSize": "12.2 MB",
+      "instancesCount": 0,
+      "hash": "sha256:39f28a61c778e244",
+      "notes": "Archivo de respaldo histórico verificado.",
+      "author": "Wolfric Archive"
+    }
+  ],
+  "settings": {
+    "maintenanceMode": false,
+    "maintenanceMessage": "Plataforma Wolfric SubBot en mantenimiento temporal para optimización de servidores.",
+    "defaultVersion": "Wolfric 3.2.1",
+    "maxInstancesTotal": 50,
+    "maxInstancesPerNumber": 10,
+    "allowNewRegistrations": true,
+    "systemUptimeSeconds": 119000,
+    "totalMessagesToday": 1,
+    "antibanShield": true
+  },
+  "auditLogs": [
+    {
+      "id": "log-1790631541099-847",
+      "timestamp": "2026-09-28T21:39:01.099Z",
+      "action": "OWNER_LOGIN",
+      "target": "Sesión cifrada establecida con éxito (wsec_77e42...)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1790631497374-840",
+      "timestamp": "2026-09-28T21:38:17.374Z",
+      "action": "OWNER_LOGIN",
+      "target": "Sesión cifrada establecida con éxito (wsec_abbcb...)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1790631494709-860",
+      "timestamp": "2026-09-28T21:38:14.709Z",
+      "action": "OWNER_LOGIN",
+      "target": "Sesión cifrada establecida con éxito (wsec_c50e1...)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1790631492020-847",
+      "timestamp": "2026-09-28T21:38:12.020Z",
+      "action": "SUBBOT_REGISTERED",
+      "target": "Wolfric-SubBot--632 (+56987654321)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1790631486165-79",
+      "timestamp": "2026-09-28T21:38:06.165Z",
+      "action": "OWNER_LOGIN",
+      "target": "Sesión cifrada establecida con éxito (wsec_82f0a...)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1790631484217-465",
+      "timestamp": "2026-09-28T21:38:04.217Z",
+      "action": "OWNER_LOGIN",
+      "target": "Sesión cifrada establecida con éxito (wsec_dd05b...)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1790631481993-47",
+      "timestamp": "2026-09-28T21:38:01.993Z",
+      "action": "OWNER_LOGIN",
+      "target": "Sesión cifrada establecida con éxito (wsec_5e7a2...)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1790631475609-442",
+      "timestamp": "2026-09-28T21:37:55.609Z",
+      "action": "OWNER_LOGIN",
+      "target": "Sesión cifrada establecida con éxito (wsec_e3ce6...)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1790629937706-20",
+      "timestamp": "2026-09-28T21:12:17.706Z",
+      "action": "SUBBOT_REGISTERED",
+      "target": "Wolfric-SubBot--387 (+56987654321)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1790596455448-181",
+      "timestamp": "2026-09-28T11:54:15.448Z",
+      "action": "SUBBOT_REGISTERED",
+      "target": "Wolfric-SubBot--549 (+569981026602)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1790596261241-828",
+      "timestamp": "2026-09-28T11:51:01.241Z",
+      "action": "SUBBOT_REGISTERED",
+      "target": "Wolfric-SubBot--306 (+56912345678)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1789575058314-588",
+      "timestamp": "2026-09-16T16:10:58.314Z",
+      "action": "SUBBOT_LINKED",
+      "target": "Wolfric-SubBot--687 (+5569981026602)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1789575024624-983",
+      "timestamp": "2026-09-16T16:10:24.624Z",
+      "action": "SUBBOT_REGISTERED",
+      "target": "Wolfric-SubBot--687 (+5569981026602)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1789574849392-636",
+      "timestamp": "2026-09-16T16:07:29.392Z",
+      "action": "SUBBOT_REGISTERED",
+      "target": "Wolfric-SubBot--801 (+5215512345678)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1789573988632-977",
+      "timestamp": "2026-09-16T15:53:08.632Z",
+      "action": "SUBBOT_REGISTERED",
+      "target": "Wolfric-SubBot--215 (+5569981026602)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1789522456796-9",
+      "timestamp": "2026-09-16T01:34:16.796Z",
+      "action": "SUBBOT_REGISTERED",
+      "target": "Wolfric-SubBot--420 (+525512345678)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1789521786926-197",
+      "timestamp": "2026-09-16T01:23:06.926Z",
+      "action": "INSTANCE_DELETED",
+      "target": "Wolfric-SubBot--267 (+525512345678)",
+      "status": "alert"
+    },
+    {
+      "id": "log-1789521781906-662",
+      "timestamp": "2026-09-16T01:23:01.906Z",
+      "action": "SUBBOT_REGISTERED",
+      "target": "Wolfric-SubBot--267 (+525512345678)",
+      "status": "ok"
+    },
+    {
+      "id": "log-1",
+      "timestamp": "2026-09-16T01:23:00.145Z",
+      "action": "PLATFORM_BOOT",
+      "target": "Sistema Wolfric Core Oficial",
+      "status": "ok"
+    }
+  ],
+  "backups": [
+    {
+      "id": "sys-bk-1",
+      "version": "Wolfric 3.2.1",
+      "filename": "wolfric-core-3.2.1-official.tar.gz",
+      "date": "2026-09-10T14:30:00.000Z",
+      "sizeKb": 4920,
+      "type": "version_release",
+      "notes": "Release oficial empaquetada con módulos multi-device."
+    },
+    {
+      "id": "sys-bk-2",
+      "version": "Wolfric 3.2.0",
+      "filename": "wolfric-core-3.2.0-stable.tar.gz",
+      "date": "2026-08-18T10:15:00.000Z",
+      "sizeKb": 4710,
+      "type": "version_release",
+      "notes": "Build previa certificada."
+    },
+    {
+      "id": "sys-bk-3",
+      "version": "Wolfric 2.8-legacy",
+      "filename": "backup-antiguo-wolfric-v2.8.zip",
+      "date": "2026-04-12T08:00:00.000Z",
+      "sizeKb": 12490,
+      "type": "manual_snapshot",
+      "notes": "Backup histórico subido por el propietario de Wolfric."
+    }
+  ],
+  "ownerPasscode": "WLZ-123",
+  "ownerSecurityPin": "191919",
+  "emergencyLockdown": false,
+  "blacklistedIps": [],
+  "securityIncidents": []
+}

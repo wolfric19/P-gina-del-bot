@@ -1,0 +1,54 @@
+[
+  {
+    "id": "cm_coliseo_1",
+    "nombre": "Conquistador del Coliseo",
+    "desc": "Ganá 5 duelos PvP contra otros usuarios del bot",
+    "campo": "wins",
+    "meta": 5,
+    "recompensa": {
+      "coins": 2500,
+      "gems": 50,
+      "exp": 250,
+      "bounty": 10000,
+      "fruta": "Neón",
+      "item": "Kit de Primeros Auxilios"
+    },
+    "activa": true,
+    "creadaPor": "Administración",
+    "fechaCreacion": "2026-09-19"
+  },
+  {
+    "id": "cm_cazador_1",
+    "nombre": "Cacería Legendaria",
+    "desc": "Cazá 10 monstruos salvajes en las expediciones",
+    "campo": "monstruosCazados",
+    "meta": 10,
+    "recompensa": {
+      "coins": 4000,
+      "gems": 80,
+      "exp": 400,
+      "bounty": 15000,
+      "fruta": "Magma",
+      "item": "Inyector de Adrenalina"
+    },
+    "activa": true,
+    "creadaPor": "Administración",
+    "fechaCreacion": "2026-09-19"
+  },
+  {
+    "id": "cm_ruleta_1",
+    "nombre": "Apostador Temerario",
+    "desc": "Probá tu suerte jugando 8 veces a la ruleta",
+    "campo": "ruletaJugada",
+    "meta": 8,
+    "recompensa": {
+      "coins": 1500,
+      "gems": 30,
+      "exp": 150,
+      "item": "Ticket de Gacha"
+    },
+    "activa": true,
+    "creadaPor": "Administración",
+    "fechaCreacion": "2026-09-19"
+  }
+]

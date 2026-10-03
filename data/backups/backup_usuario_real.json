@@ -1,0 +1,1232 @@
+{
+  "83769193189377@lid": {
+    "coins": 2195,
+    "lastDaily": 1788522331359,
+    "lastWork": 1788567472413,
+    "lastRob": 1788567478744,
+    "inventory": [
+      "Antídoto Universal",
+      "Inyector de Adrenalina"
+    ],
+    "hp": 179,
+    "maxHp": 190,
+    "energy": 100,
+    "maxEnergy": 100,
+    "level": 6,
+    "exp": 27,
+    "statPoints": 0,
+    "stats": {
+      "str": 14,
+      "def": 10,
+      "agi": 15,
+      "int": 10
+    },
+    "fruit": null,
+    "gachaPity": 7,
+    "lastFruitFree": 1788522352663,
+    "wins": 3,
+    "tradesCompleted": 0,
+    "fruitGachaSpent": 7000,
+    "lifetimeCoinsEarned": 12705,
+    "totalGifted": 0,
+    "titles": [
+      "Primera Sangre",
+      "Asesino Implacable",
+      "Intocable"
+    ],
+    "equippedTitle": null,
+    "guild": "wolf",
+    "gems": 0,
+    "fruitAwakened": false,
+    "estilosComprados": [],
+    "estiloEquipado": null,
+    "contadorHabilidades": {
+      "Vacio": 15,
+      "arte_corte_basico": 1,
+      "Vacio_ultimate": 6
+    },
+    "frutasObtenidas": [
+      "Bomba",
+      "Arena",
+      "Imán",
+      "Fantasma",
+      "Óxido",
+      "Apuesta",
+      "Papel",
+      "Hielo",
+      "Goma",
+      "Amigo"
+    ],
+    "obtuvoSecreta": false,
+    "comandosUsados": 288,
+    "primeraInteraccion": 1787569110483,
+    "ganoDueloRapido": true,
+    "ganoDueloSinDaño": true,
+    "fueAdminConNivel50": false,
+    "hizoTraicionGremio": false,
+    "bounty": 299,
+    "monstruosCazados": 13,
+    "guardiasRobo": 8,
+    "rachaActual": 0,
+    "rachaMejor": 2,
+    "mazmorrasCompletadas": 0,
+    "victorias2v2": 0,
+    "ganoRuletaMitica": false,
+    "girosRuletaGratis": 0,
+    "partidas2v2Jugadas": 0,
+    "eventoAmigoProgreso": 0,
+    "eventoAmigoReclamado": false,
+    "registrado": false,
+    "derrotas": 5,
+    "marActual": 2,
+    "islaActual": 2,
+    "lastExplorar": 1788567517665,
+    "lastVueltaTierra": 1787569110484,
+    "debuffExpedicionStat": "int",
+    "debuffExpedicionExpira": 1788523007376,
+    "buffExploracionRestante": 0,
+    "buffFortunaRestante": 0,
+    "buffFortunaPct": 0,
+    "krakensVencidos": 2,
+    "vecesVolvioTierra": 0,
+    "sobrevivioCritico": false,
+    "itemsCurativosUsados": 0,
+    "misionesDiarias": null,
+    "misionesDiariasAsignadas": 0,
+    "misionesSemanales": null,
+    "misionesSemanalesAsignadas": 0,
+    "haViajado": true,
+    "explorarUsos": 26,
+    "logrosDesbloqueados": [
+      "Fundador",
+      "Compañerismo",
+      "Navegante",
+      "Aprendiz de Combate",
+      "Despierto",
+      "Mente Revolucionaria",
+      "Primeros Pasos",
+      "Cazador de Tesoros",
+      "Cazador de Monstruos",
+      "Coleccionista"
+    ],
+    "frontier": {
+      "alias": null,
+      "rango": "E",
+      "regionActual": "arca-inicial",
+      "regionesDescubiertas": [
+        "arca-inicial"
+      ],
+      "pistas": [],
+      "escenariosUnicos": [],
+      "guardianesDerrotados": [],
+      "materiales": {},
+      "armasPoseidas": [
+        "punos_novato"
+      ],
+      "armaEquipada": "punos_novato",
+      "artesDesbloqueadas": [
+        "corte_basico"
+      ],
+      "artesEquipadas": [
+        "corte_basico"
+      ],
+      "reputacion": {},
+      "encuentrosDescubiertos": [],
+      "recompensasUnicas": [],
+      "decisionesUnicas": [],
+      "tutorial": {
+        "estado": "pendiente",
+        "ruta": null,
+        "pasos": [],
+        "recompensaReclamada": false,
+        "creadoEn": null
+      },
+      "exploraciones": {},
+      "subzonasDescubiertas": {},
+      "elitesDerrotadas": [],
+      "eventosFrontier": [],
+      "misionesFrontier": [],
+      "npcsConocidos": [],
+      "recetasDescubiertas": [
+        "temple-ceniza"
+      ],
+      "mejorasArmas": {},
+      "consecuencias": [],
+      "prestigio": 0
+    },
+    "frutasPoseidas": [
+      {
+        "nombre": "Vacio",
+        "categoria": "owner",
+        "despertada": true
+      },
+      {
+        "nombre": "Bomba",
+        "categoria": "comun",
+        "despertada": false
+      },
+      {
+        "nombre": "Arena",
+        "categoria": "comun",
+        "despertada": false
+      },
+      {
+        "nombre": "Imán",
+        "categoria": "comun",
+        "despertada": false
+      },
+      {
+        "nombre": "Fantasma",
+        "categoria": "mitica",
+        "despertada": false
+      },
+      {
+        "nombre": "Apuesta",
+        "categoria": "rara",
+        "despertada": false
+      },
+      {
+        "nombre": "Papel",
+        "categoria": "comun",
+        "despertada": false
+      },
+      {
+        "nombre": "Goma",
+        "categoria": "comun",
+        "despertada": false
+      },
+      {
+        "nombre": "Amigo",
+        "categoria": "comun",
+        "despertada": false
+      }
+    ],
+    "fruitEquipada": "Vacio",
+    "misionDia": {
+      "fecha": "2026-09-05",
+      "work": true,
+      "train": true,
+      "casino": false,
+      "reclamado": false
+    },
+    "idioma": null,
+    "rachaDiaria": 1,
+    "rachaDiariaMejor": 1,
+    "hitosRachaReclamados": [],
+    "casinoDia": "2026-09-04",
+    "casinoHoy": 15,
+    "lastTrain": 1788567754221
+  },
+  "16970086887468@lid": {
+    "coins": 140,
+    "lastDaily": 1788582941249,
+    "lastWork": 1788612752777,
+    "lastRob": 0,
+    "inventory": [
+      "Inyector de Adrenalina",
+      "Batería de Iones",
+      "Poción Neón Grande",
+      "Píldora de Amnesia"
+    ],
+    "hp": 109,
+    "maxHp": 130,
+    "energy": 100,
+    "maxEnergy": 100,
+    "level": 5,
+    "exp": 91,
+    "statPoints": 4,
+    "stats": {
+      "str": 16,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "fruit": null,
+    "gachaPity": 1,
+    "lastFruitFree": 1788582948015,
+    "wins": 1,
+    "tradesCompleted": 0,
+    "fruitGachaSpent": 10000,
+    "lifetimeCoinsEarned": 12568,
+    "totalGifted": 0,
+    "titles": [
+      "Primera Sangre"
+    ],
+    "equippedTitle": null,
+    "guild": "wolf",
+    "gems": 0,
+    "fruitAwakened": false,
+    "estilosComprados": [],
+    "estiloEquipado": null,
+    "contadorHabilidades": {
+      "Imán": 1,
+      "Dolor": 1,
+      "Fuego Alfa_ultimate": 3,
+      "Fuego Alfa": 3
+    },
+    "frutasObtenidas": [
+      "Imán",
+      "Dolor",
+      "Amigo",
+      "Neón",
+      "Vapor",
+      "Apuesta",
+      "Viento",
+      "Hueso",
+      "Control",
+      "Veneno",
+      "Metal",
+      "Bomba",
+      "Terremoto",
+      "Arena"
+    ],
+    "obtuvoSecreta": false,
+    "comandosUsados": 446,
+    "primeraInteraccion": 1787569110487,
+    "ganoDueloRapido": false,
+    "ganoDueloSinDaño": false,
+    "fueAdminConNivel50": false,
+    "hizoTraicionGremio": false,
+    "bounty": 370,
+    "monstruosCazados": 30,
+    "guardiasRobo": 5,
+    "rachaActual": 1,
+    "rachaMejor": 1,
+    "mazmorrasCompletadas": 0,
+    "victorias2v2": 0,
+    "ganoRuletaMitica": false,
+    "girosRuletaGratis": 0,
+    "partidas2v2Jugadas": 0,
+    "eventoAmigoProgreso": 0,
+    "eventoAmigoReclamado": false,
+    "registrado": true,
+    "derrotas": 2,
+    "marActual": 2,
+    "islaActual": 2,
+    "lastExplorar": 1788612764860,
+    "lastVueltaTierra": 1787569110487,
+    "debuffExpedicionStat": null,
+    "debuffExpedicionExpira": 0,
+    "buffExploracionRestante": 0,
+    "buffFortunaRestante": 0,
+    "buffFortunaPct": 0,
+    "krakensVencidos": 0,
+    "vecesVolvioTierra": 0,
+    "sobrevivioCritico": false,
+    "itemsCurativosUsados": 0,
+    "misionesDiarias": null,
+    "misionesDiariasAsignadas": 0,
+    "misionesSemanales": null,
+    "misionesSemanalesAsignadas": 0,
+    "haViajado": true,
+    "explorarUsos": 11,
+    "logrosDesbloqueados": [
+      "Un gran comienzo",
+      "Fundador",
+      "Navegante",
+      "Cazador de Monstruos",
+      "Primeros Pasos",
+      "Aprendiz de Combate",
+      "Despierto",
+      "Coleccionista"
+    ],
+    "frontier": {
+      "alias": "ワオルフライク",
+      "rango": "E",
+      "regionActual": "llanuras-ceniza",
+      "regionesDescubiertas": [
+        "arca-inicial",
+        "llanuras-ceniza"
+      ],
+      "pistas": [],
+      "escenariosUnicos": [],
+      "guardianesDerrotados": [],
+      "materiales": {
+        "fragmento_ceniza": 1
+      },
+      "armasPoseidas": [
+        "punos_novato"
+      ],
+      "armaEquipada": "punos_novato",
+      "artesDesbloqueadas": [
+        "corte_basico"
+      ],
+      "artesEquipadas": [
+        "corte_basico"
+      ],
+      "reputacion": {
+        "llanuras-ceniza": 1
+      },
+      "encuentrosDescubiertos": [],
+      "recompensasUnicas": [],
+      "decisionesUnicas": [],
+      "tutorial": {
+        "estado": "pendiente",
+        "ruta": null,
+        "pasos": [],
+        "recompensaReclamada": false,
+        "creadoEn": 1787580328151
+      },
+      "exploraciones": {
+        "llanuras-ceniza": 3
+      },
+      "subzonasDescubiertas": {
+        "llanuras-ceniza": [
+          "torre-caida"
+        ]
+      },
+      "elitesDerrotadas": [],
+      "eventosFrontier": [],
+      "misionesFrontier": [],
+      "npcsConocidos": [],
+      "recetasDescubiertas": [
+        "temple-ceniza"
+      ],
+      "mejorasArmas": {},
+      "consecuencias": [],
+      "prestigio": 0
+    },
+    "frutasPoseidas": [
+      {
+        "nombre": "Fuego Alfa",
+        "categoria": "owner",
+        "despertada": true
+      },
+      {
+        "nombre": "Madera",
+        "categoria": "comun",
+        "despertada": false
+      },
+      {
+        "nombre": "Imán",
+        "categoria": "comun",
+        "despertada": false
+      },
+      {
+        "nombre": "Dolor",
+        "categoria": "mitica",
+        "despertada": false
+      },
+      {
+        "nombre": "Amigo",
+        "categoria": "comun",
+        "despertada": false
+      },
+      {
+        "nombre": "Neón",
+        "categoria": "epica",
+        "despertada": false
+      },
+      {
+        "nombre": "Vapor",
+        "categoria": "comun",
+        "despertada": false
+      },
+      {
+        "nombre": "Apuesta",
+        "categoria": "rara",
+        "despertada": false
+      },
+      {
+        "nombre": "Viento",
+        "categoria": "comun",
+        "despertada": false
+      },
+      {
+        "nombre": "Hueso",
+        "categoria": "rara",
+        "despertada": false
+      },
+      {
+        "nombre": "Control",
+        "categoria": "mitica",
+        "despertada": false
+      },
+      {
+        "nombre": "Veneno",
+        "categoria": "rara",
+        "despertada": false
+      },
+      {
+        "nombre": "Metal",
+        "categoria": "comun",
+        "despertada": false
+      },
+      {
+        "nombre": "Bomba",
+        "categoria": "comun",
+        "despertada": false
+      },
+      {
+        "nombre": "Terremoto",
+        "categoria": "epica",
+        "despertada": false
+      },
+      {
+        "nombre": "Arena",
+        "categoria": "comun",
+        "despertada": false
+      }
+    ],
+    "fruitEquipada": "Fuego Alfa",
+    "lastTrain": 1788612742215,
+    "misionDia": {
+      "fecha": "2026-09-05",
+      "work": true,
+      "train": true,
+      "casino": false,
+      "reclamado": false
+    },
+    "idioma": "es",
+    "rachaDiaria": 1,
+    "rachaDiariaMejor": 1,
+    "hitosRachaReclamados": [],
+    "casinoDia": "2026-09-04",
+    "casinoHoy": 1
+  },
+  "41343522992148@lid": {
+    "coins": 2687,
+    "lastDaily": 0,
+    "lastWork": 0,
+    "lastRob": 0,
+    "inventory": [],
+    "hp": 100,
+    "maxHp": 100,
+    "energy": 100,
+    "maxEnergy": 100,
+    "level": 3,
+    "exp": 0,
+    "statPoints": 6,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "fruit": null,
+    "gachaPity": 0,
+    "lastFruitFree": 1787616248255,
+    "wins": 0,
+    "tradesCompleted": 0,
+    "fruitGachaSpent": 0,
+    "lifetimeCoinsEarned": 380,
+    "totalGifted": 0,
+    "titles": [],
+    "equippedTitle": null,
+    "guild": null,
+    "gems": 0,
+    "fruitAwakened": false,
+    "estilosComprados": [],
+    "estiloEquipado": null,
+    "contadorHabilidades": {
+      "arte_corte_basico": 1
+    },
+    "frutasObtenidas": [
+      "Humo"
+    ],
+    "obtuvoSecreta": false,
+    "comandosUsados": 15,
+    "primeraInteraccion": 1787569110487,
+    "ganoDueloRapido": false,
+    "ganoDueloSinDaño": false,
+    "fueAdminConNivel50": false,
+    "hizoTraicionGremio": false,
+    "bounty": 102,
+    "monstruosCazados": 1,
+    "guardiasRobo": 0,
+    "rachaActual": 0,
+    "rachaMejor": 0,
+    "mazmorrasCompletadas": 0,
+    "victorias2v2": 0,
+    "ganoRuletaMitica": false,
+    "girosRuletaGratis": 0,
+    "partidas2v2Jugadas": 0,
+    "eventoAmigoProgreso": 0,
+    "eventoAmigoReclamado": false,
+    "registrado": true,
+    "derrotas": 0,
+    "marActual": null,
+    "islaActual": null,
+    "lastExplorar": 0,
+    "lastVueltaTierra": 1787569110487,
+    "debuffExpedicionStat": null,
+    "debuffExpedicionExpira": 0,
+    "buffExploracionRestante": 0,
+    "buffFortunaRestante": 0,
+    "buffFortunaPct": 0,
+    "krakensVencidos": 0,
+    "vecesVolvioTierra": 0,
+    "sobrevivioCritico": false,
+    "itemsCurativosUsados": 0,
+    "misionesDiarias": null,
+    "misionesDiariasAsignadas": 0,
+    "misionesSemanales": null,
+    "misionesSemanalesAsignadas": 0,
+    "haViajado": false,
+    "explorarUsos": 0,
+    "logrosDesbloqueados": [
+      "Un gran comienzo"
+    ],
+    "frontier": {
+      "alias": "Lucas",
+      "rango": "E",
+      "regionActual": "arca-inicial",
+      "regionesDescubiertas": [
+        "arca-inicial",
+        "llanuras-ceniza"
+      ],
+      "pistas": [],
+      "escenariosUnicos": [],
+      "guardianesDerrotados": [],
+      "materiales": {},
+      "armasPoseidas": [
+        "punos_novato"
+      ],
+      "armaEquipada": "punos_novato",
+      "artesDesbloqueadas": [
+        "corte_basico"
+      ],
+      "artesEquipadas": [
+        "corte_basico"
+      ],
+      "reputacion": {
+        "llanuras-ceniza": 0
+      },
+      "encuentrosDescubiertos": [],
+      "recompensasUnicas": [],
+      "decisionesUnicas": [],
+      "tutorial": {
+        "estado": "en-recorrido",
+        "ruta": null,
+        "pasos": [
+          "ruta:guia"
+        ],
+        "recompensaReclamada": false,
+        "creadoEn": 1787587703484
+      },
+      "exploraciones": {},
+      "subzonasDescubiertas": {},
+      "elitesDerrotadas": [],
+      "eventosFrontier": [],
+      "misionesFrontier": [],
+      "npcsConocidos": [],
+      "recetasDescubiertas": [
+        "temple-ceniza"
+      ],
+      "mejorasArmas": {},
+      "consecuencias": [],
+      "prestigio": 0
+    },
+    "frutasPoseidas": [
+      {
+        "nombre": "THE L",
+        "categoria": "owner",
+        "despertada": false
+      },
+      {
+        "nombre": "Rayo",
+        "categoria": "rara",
+        "despertada": false
+      },
+      {
+        "nombre": "Humo",
+        "categoria": "comun",
+        "despertada": false
+      }
+    ],
+    "fruitEquipada": "Rayo",
+    "idioma": null,
+    "rachaDiaria": 0,
+    "rachaDiariaMejor": 0,
+    "hitosRachaReclamados": []
+  },
+  "235734246105265@lid": {
+    "coins": 10252,
+    "lastDaily": 1788521591003,
+    "lastWork": 1788614373862,
+    "lastRob": 0,
+    "inventory": [
+      "Poción Neón Pequeña",
+      "Poción de Suerte",
+      "Bomba de Ruptura",
+      "Bomba de Ruptura",
+      "Escudo de Datos",
+      "Poción Neón Pequeña",
+      "Catalizador de Fase"
+    ],
+    "hp": 280,
+    "maxHp": 280,
+    "energy": 100,
+    "maxEnergy": 100,
+    "level": 8,
+    "exp": 66,
+    "statPoints": 0,
+    "stats": {
+      "str": 20,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "fruit": null,
+    "gachaPity": 2,
+    "lastFruitFree": 1788521612616,
+    "wins": 7,
+    "tradesCompleted": 0,
+    "fruitGachaSpent": 5000,
+    "lifetimeCoinsEarned": 21774,
+    "totalGifted": 231,
+    "titles": [
+      "Bancarrota",
+      "Coleccionista",
+      "Primera Sangre",
+      "Asesino Implacable",
+      "Intocable",
+      "Spammer Neón"
+    ],
+    "equippedTitle": "Intocable",
+    "guild": "wolf",
+    "gems": 50,
+    "fruitAwakened": false,
+    "estilosComprados": [
+      "dark_step",
+      "muay_thai",
+      "capoeira",
+      "kenpo_sombrio",
+      "boxeo"
+    ],
+    "estiloEquipado": "kenpo_sombrio",
+    "contadorHabilidades": {
+      "Mammoth": 32,
+      "arte_corte_basico": 4,
+      "Dolor": 2,
+      "Abismo": 1,
+      "Control": 1
+    },
+    "frutasObtenidas": [
+      "Vapor",
+      "Arena",
+      "Plasma",
+      "Madera",
+      "Sombra",
+      "Humo",
+      "Cuarzo",
+      "Mammoth",
+      "Cristal",
+      "Terremoto",
+      "Metal",
+      "Bomba",
+      "Hielo",
+      "Espejismo",
+      "Apuesta",
+      "Hueso",
+      "Sonido",
+      "Eco",
+      "Viento",
+      "Grieta",
+      "Amigo",
+      "Goma",
+      "Deuda",
+      "Dolor",
+      "Magma",
+      "Luz",
+      "Tinta",
+      "Marea",
+      "Coral",
+      "Imán",
+      "Control",
+      "Sacrificio",
+      "Trueque",
+      "Óxido",
+      "Gravedad",
+      "Neón",
+      "Papel",
+      "Bigfoot",
+      "Veneno",
+      "Cadena",
+      "Rayo",
+      "Abismo",
+      "Espejo"
+    ],
+    "obtuvoSecreta": false,
+    "comandosUsados": 1278,
+    "primeraInteraccion": 1787569285852,
+    "ganoDueloRapido": true,
+    "ganoDueloSinDaño": true,
+    "fueAdminConNivel50": false,
+    "hizoTraicionGremio": false,
+    "bounty": 927,
+    "monstruosCazados": 48,
+    "guardiasRobo": 7,
+    "rachaActual": 1,
+    "rachaMejor": 3,
+    "mazmorrasCompletadas": 0,
+    "victorias2v2": 0,
+    "ganoRuletaMitica": false,
+    "girosRuletaGratis": 0,
+    "partidas2v2Jugadas": 0,
+    "eventoAmigoProgreso": 0,
+    "eventoAmigoReclamado": false,
+    "registrado": true,
+    "derrotas": 2,
+    "marActual": null,
+    "islaActual": null,
+    "lastExplorar": 1788571365475,
+    "lastVueltaTierra": 1788614373352,
+    "debuffExpedicionStat": "str",
+    "debuffExpedicionExpira": 1788537764517,
+    "buffExploracionRestante": 0,
+    "buffFortunaRestante": 0,
+    "buffFortunaPct": 0,
+    "krakensVencidos": 2,
+    "vecesVolvioTierra": 40,
+    "sobrevivioCritico": false,
+    "itemsCurativosUsados": 1,
+    "haViajado": true,
+    "explorarUsos": 35,
+    "logrosDesbloqueados": [
+      "Un gran comienzo",
+      "Mente Revolucionaria",
+      "Compañerismo",
+      "Navegante",
+      "Coleccionista",
+      "Cazador de Monstruos",
+      "Coleccionista Mayor",
+      "Alma Errante",
+      "Aprendiz de Combate",
+      "Primeros Pasos",
+      "Algunos sobreviven",
+      "Cazador de Tesoros",
+      "Ahorrista",
+      "Doctor de Combate"
+    ],
+    "frontier": {
+      "alias": "[ 𝐙𝐢𝐫𝐱 ]",
+      "rango": "E",
+      "regionActual": "llanuras-ceniza",
+      "regionesDescubiertas": [
+        "arca-inicial",
+        "llanuras-ceniza"
+      ],
+      "pistas": [],
+      "escenariosUnicos": [],
+      "guardianesDerrotados": [],
+      "materiales": {},
+      "armasPoseidas": [
+        "punos_novato"
+      ],
+      "armaEquipada": "punos_novato",
+      "artesDesbloqueadas": [
+        "corte_basico"
+      ],
+      "artesEquipadas": [
+        "corte_basico"
+      ],
+      "reputacion": {
+        "llanuras-ceniza": 0
+      },
+      "encuentrosDescubiertos": [],
+      "recompensasUnicas": [],
+      "decisionesUnicas": [],
+      "tutorial": {
+        "estado": "pendiente",
+        "ruta": null,
+        "pasos": [],
+        "recompensaReclamada": false,
+        "creadoEn": 1787616790494
+      },
+      "exploraciones": {
+        "llanuras-ceniza": 3
+      },
+      "subzonasDescubiertas": {
+        "llanuras-ceniza": [
+          "torre-caida",
+          "tormenta-ceniza"
+        ]
+      },
+      "elitesDerrotadas": [],
+      "eventosFrontier": [],
+      "misionesFrontier": [],
+      "npcsConocidos": [],
+      "recetasDescubiertas": [
+        "temple-ceniza"
+      ],
+      "mejorasArmas": {},
+      "consecuencias": [],
+      "prestigio": 0
+    },
+    "frutasPoseidas": [
+      {
+        "nombre": "Espejismo",
+        "categoria": "rara",
+        "despertada": false
+      },
+      {
+        "nombre": "Mammoth",
+        "categoria": "mitica",
+        "despertada": false
+      },
+      {
+        "nombre": "Dolor",
+        "categoria": "mitica",
+        "despertada": false
+      },
+      {
+        "nombre": "Abismo",
+        "categoria": "mitica",
+        "despertada": false
+      }
+    ],
+    "fruitEquipada": "Mammoth",
+    "misionDia": {
+      "fecha": "2026-09-05",
+      "work": true,
+      "train": false,
+      "casino": false,
+      "reclamado": false
+    },
+    "idioma": null,
+    "rachaDiaria": 1,
+    "rachaDiariaMejor": 1,
+    "hitosRachaReclamados": [],
+    "casinoDia": "2026-09-04",
+    "casinoHoy": 15
+  },
+  "118696135680047@lid": {
+    "coins": 3640,
+    "level": 3,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "frontier": {
+      "alias": "☆_ҒΣDΣ_☆",
+      "rango": "E"
+    },
+    "frutasPoseidas": [
+      {
+        "nombre": "Imán",
+        "categoria": "comun",
+        "despertada": false
+      }
+    ],
+    "fruitEquipada": "Imán"
+  },
+  "149297777623083@lid": {
+    "coins": 548,
+    "level": 6,
+    "stats": {
+      "str": 15,
+      "def": 15,
+      "agi": 10,
+      "int": 14
+    },
+    "frontier": {
+      "alias": "T",
+      "rango": "E"
+    },
+    "frutasPoseidas": [
+      {
+        "nombre": "Abismo",
+        "categoria": "mitica",
+        "despertada": true
+      }
+    ],
+    "fruitEquipada": "Abismo"
+  },
+  "62474661400663@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "frontier": {
+      "rango": "E"
+    }
+  },
+  "83202676899974@lid": {
+    "coins": 584,
+    "level": 3,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "frontier": {
+      "alias": "—͟͟͞͞ Shadow Milk Cookie",
+      "rango": "E"
+    },
+    "frutasPoseidas": [
+      {
+        "nombre": "Cristal",
+        "categoria": "comun",
+        "despertada": false
+      }
+    ],
+    "fruitEquipada": "Cristal"
+  },
+  "176622695104628@lid": {
+    "coins": 542,
+    "level": 3,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "frontier": {
+      "alias": "𝙻𝚊𝚣𝚎𝚔",
+      "rango": "E"
+    },
+    "frutasPoseidas": [
+      {
+        "nombre": "Madera",
+        "categoria": "comun",
+        "despertada": false
+      }
+    ],
+    "fruitEquipada": "Madera"
+  },
+  "69058779205729@lid": {
+    "coins": 400,
+    "level": 3,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "frontier": {
+      "alias": "𝑪𝒉𝒐𝒔𝒐 ♱",
+      "rango": "E"
+    },
+    "frutasPoseidas": [
+      {
+        "nombre": "Bomba",
+        "categoria": "comun",
+        "despertada": false
+      }
+    ],
+    "fruitEquipada": "Bomba"
+  },
+  "162620514545913@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "frontier": {
+      "rango": "E"
+    }
+  },
+  "39122974568560@lid": {
+    "coins": 560,
+    "level": 3,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "frontier": {
+      "alias": "Alex",
+      "rango": "E"
+    },
+    "frutasPoseidas": [
+      {
+        "nombre": "Vapor",
+        "categoria": "comun",
+        "despertada": false
+      }
+    ],
+    "fruitEquipada": "Vapor"
+  },
+  "150135229157427@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "frontier": {
+      "rango": "E"
+    }
+  },
+  "213142768464066@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "frontier": {
+      "rango": "E"
+    }
+  },
+  "168495895584946@lid": {
+    "coins": 400,
+    "level": 3,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "frontier": {
+      "alias": "ワオルフライク",
+      "rango": "E"
+    },
+    "frutasPoseidas": [
+      {
+        "nombre": "Luz",
+        "categoria": "rara",
+        "despertada": false
+      }
+    ],
+    "fruitEquipada": "Luz"
+  },
+  "120363430765252492@newsletter": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    }
+  },
+  "39862262591604@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    }
+  },
+  "125344510173251@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    }
+  },
+  "194536718479511@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    }
+  },
+  "157694505820188@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    }
+  },
+  "13808957407456@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    }
+  },
+  "141408308621483@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    }
+  },
+  "182687155384426@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    }
+  },
+  "16897106018381@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    }
+  },
+  "66988621709487@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    }
+  },
+  "99077077393551@lid": {
+    "coins": 100,
+    "level": 1,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    }
+  },
+  "84581495628015@lid": {
+    "coins": 400,
+    "level": 3,
+    "stats": {
+      "str": 10,
+      "def": 10,
+      "agi": 10,
+      "int": 10
+    },
+    "frontier": {
+      "alias": "Խելահեղություն Պրեսկոտում",
+      "rango": "E"
+    },
+    "frutasPoseidas": [
+      {
+        "nombre": "Imán",
+        "categoria": "comun",
+        "despertada": false
+      }
+    ],
+    "fruitEquipada": "Imán"
+  }
+}

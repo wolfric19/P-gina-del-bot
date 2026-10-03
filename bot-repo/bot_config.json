@@ -1,0 +1,19 @@
+{
+  "botName": "Wolfric",
+  "botEmoji": "🐺",
+  "botVersion": "3.1.0",
+  "welcomeMsg": "",
+  "channelUrl": "https://whatsapp.com/channel/0029VbDSzOv8KMqcStjGog1T",
+  "channelName": "Canal Wolfric",
+  "welcomeOn": true,
+  "backupHoras": 6,
+  "stickerPack": "Wolfric",
+  "stickerAuthor": "Wolfric Protocol",
+  "grupoAvisos": null,
+  "impuestoMercadoPct": 5,
+  "rankingDia": 0,
+  "rankingHora": 20,
+  "rankingUltimoPost": null,
+  "prefix": ".",
+  "anticall": false
+}
